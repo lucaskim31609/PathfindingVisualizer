@@ -1,2 +1,2 @@
 # Pathfinding-Algorithms-Visualizer
-# Visualizes different search algorithms such as Breadths-First Search, Deep-First Search, A-Star Search and Dijkstra's Search Algorithms for you in a colourful fashion.
+# I'm excited to present my Pathfinding Algorithms Visualizer, a Python-based project that lets you explore and understand various search algorithms like Breadth-First Search, Depth-First Search, A-Star Search, and Dijkstra's Search. This tool is designed to help you gain insights into these algorithms and how they navigate through mazes or grids to find the shortest path from a start point to a target.
